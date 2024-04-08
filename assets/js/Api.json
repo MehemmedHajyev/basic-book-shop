@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "name": "Sefiller",
+        "price": 12.99,
+        "count": 100,
+        "image": "https://cdn.kobo.com/book-images/Images/6faa402f-1a95-4897-93ff-8286cbe0e94f/255/400/False/image.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 2,
+        "name": "1984",
+        "price": 9.99,
+        "count": 80,
+        "image": "1984.jpg",
+        "category": "Distopya"
+    },
+    {
+        "id": 3,
+        "name": "Dönüşüm",
+        "price": 7.99,
+        "count": 120,
+        "image": "donusum.jpg",
+        "category": "Kısa Hikaye"
+    },
+    {
+        "id": 4,
+        "name": "Suç ve Ceza",
+        "price": 15.99,
+        "count": 60,
+        "image": "suc_ve_ceza.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 5,
+        "name": "Kırmızı Pazartesi",
+        "price": 10.99,
+        "count": 90,
+        "image": "kirmizi_pazartesi.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 6,
+        "name": "Beyaz Diş",
+        "price": 11.99,
+        "count": 70,
+        "image": "beyaz_dis.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 7,
+        "name": "Savaş ve Barış",
+        "price": 18.99,
+        "count": 110,
+        "image": "savas_ve_baris.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 8,
+        "name": "Şeker Portakalı",
+        "price": 14.99,
+        "count": 85,
+        "image": "seker_portakali.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 9,
+        "name": "Atlas Silkindi",
+        "price": 13.99,
+        "count": 75,
+        "image": "atlas_silkindi.jpg",
+        "category": "Bilim Kurgu"
+    },
+    {
+        "id": 10,
+        "name": "Harry Potter ve Felsefe Taşı",
+        "price": 19.99,
+        "count": 95,
+        "image": "harry_potter_ve_felsefe_tasi.jpg",
+        "category": "Fantastik"
+    },
+    {
+        "id": 11,
+        "name": "Beyaz Zambaklar Ülkesinde",
+        "price": 16.99,
+        "count": 105,
+        "image": "beyaz_zambaklar_ulkesinde.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 12,
+        "name": "Uçurtma Avcısı",
+        "price": 17.99,
+        "count": 65,
+        "image": "ucurtma_avcisi.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 13,
+        "name": "Küçük Prens",
+        "price": 11.49,
+        "count": 115,
+        "image": "kucuk_prens.jpg",
+        "category": "Çocuk Kitabı"
+    },
+    {
+        "id": 14,
+        "name": "Anna Karenina",
+        "price": 20.99,
+        "count": 55,
+        "image": "anna_karenina.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 15,
+        "name": "Yeraltından Notlar",
+        "price": 16.49,
+        "count": 100,
+        "image": "yeraltindan_notlar.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 16,
+        "name": "Sineklerin Tanrısı",
+        "price": 14.99,
+        "count": 90,
+        "image": "sineklerin_tanrisi.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 17,
+        "name": "Bülbülü Öldürmek",
+        "price": 12.99,
+        "count": 80,
+        "image": "bulbulu_oldurmek.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 18,
+        "name": "Karamazov Kardeşler",
+        "price": 22.99,
+        "count": 70,
+        "image": "karamazov_kardesler.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 19,
+        "name": "Göçebe",
+        "price": 9.99,
+        "count": 110,
+        "image": "gocebe.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 20,
+        "name": "Vadideki Zambak",
+        "price": 18.49,
+        "count": 95,
+        "image": "vadideki_zambak.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 21,
+        "name": "Fahrenheit 451",
+        "price": 13.99,
+        "count": 75,
+        "image": "fahrenheit_451.jpg",
+        "category": "Distopya"
+    },
+    {
+        "id": 22,
+        "name": "Bülbülü Öldürmek",
+        "price": 12.99,
+        "count": 85,
+        "image": "bulbulu_oldurmek.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 23,
+        "name": "Dava",
+        "price": 16.99,
+        "count": 105,
+        "image": "dava.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 24,
+        "name": "Beyaz Geceler",
+        "price": 11.99,
+        "count": 95,
+        "image": "beyaz_geceler.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 25,
+        "name": "Simyacı",
+        "price": 14.49,
+        "count": 75,
+        "image": "simyaci.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 26,
+        "name": "Şeker Portakalı",
+        "price": 16.99,
+        "count": 80,
+        "image": "seker_portakali.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 27,
+        "name": "Otomatik Portakal",
+        "price": 15.49,
+        "count": 100,
+        "image": "otomatik_portakal.jpg",
+        "category": "Distopya"
+    },
+    {
+        "id": 28,
+        "name": "Don Quijote",
+        "price": 18.99,
+        "count": 90,
+        "image": "don_quijote.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 29,
+        "name": "Veba",
+        "price": 13.49,
+        "count": 110,
+        "image": "veba.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 30,
+        "name": "Gölgesizler",
+        "price": 17.99,
+        "count": 70,
+        "image": "golgesizler.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 31,
+        "name": "Fareler ve İnsanlar",
+        "price": 14.99,
+        "count": 85,
+        "image": "fareler_ve_insanlar.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 32,
+        "name": "Bir Delinin Hatıra Defteri",
+        "price": 11.99,
+        "count": 95,
+        "image": "bir_delinin_hatira_defteri.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 33,
+        "name": "Çavdar Tarlasında Çocuklar",
+        "price": 13.99,
+        "count": 75,
+        "image": "cavdar_tarlasinda_cocuklar.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 34,
+        "name": "Kar",
+        "price": 9.49,
+        "count": 120,
+        "image": "kar.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 35,
+        "name": "Hayvan Çiftliği",
+        "price": 12.99,
+        "count": 80,
+        "image": "hayvan_ciftligi.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 36,
+        "name": "Dönüşen Dünya",
+        "price": 14.49,
+        "count": 100,
+        "image": "donusen_dunya.jpg",
+        "category": "Bilim Kurgu"
+    },
+    {
+        "id": 37,
+        "name": "Cesur Yeni Dünya",
+        "price": 16.99,
+        "count": 90,
+        "image": "cesur_yeni_dunya.jpg",
+        "category": "Distopya"
+    },
+    {
+        "id": 38,
+        "name": "Kanlı Düğün",
+        "price": 18.49,
+        "count": 110,
+        "image": "kanli_dugun.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 39,
+        "name": "Şamata",
+        "price": 12.49,
+        "count": 85,
+        "image": "samata.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 40,
+        "name": "Hobbit",
+        "price": 19.99,
+        "count": 65,
+        "image": "hobbit.jpg",
+        "category": "Fantastik"
+    },
+    {
+        "id": 41,
+        "name": "Perfume",
+        "price": 15.49,
+        "count": 95,
+        "image": "perfume.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 42,
+        "name": "Yerdeniz Üçlemesi",
+        "price": 20.49,
+        "count": 75,
+        "image": "yerdeniz_uclemesi.jpg",
+        "category": "Fantastik"
+    },
+    {
+        "id": 43,
+        "name": "Şeker Portakalı",
+        "price": 16.99,
+        "count": 85,
+        "image": "seker_portakali.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 44,
+        "name": "Martı Jonathan Livingston",
+        "price": 14.49,
+        "count": 105,
+        "image": "marti_jonathan_livingston.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 45,
+        "name": "Kuzuların Sessizliği",
+        "price": 15.99,
+        "count": 95,
+        "image": "kuzularin_sessizligi.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 46,
+        "name": "Martı",
+        "price": 11.49,
+        "count": 115,
+        "image": "marti.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 47,
+        "name": "Dokuzuncu Hariciye Koğuşu",
+        "price": 13.99,
+        "count": 75,
+        "image": "dokuzuncu_hariciye_kogusu.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 48,
+        "name": "Saatleri Ayarlama Enstitüsü",
+        "price": 16.49,
+        "count": 95,
+        "image": "saatleri_ayarlama_enstitusu.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 49,
+        "name": "Bir Şehre Bir Yıla",
+        "price": 18.99,
+        "count": 85,
+        "image": "bir_sehre_bir_yila.jpg",
+        "category": "Roman"
+    },
+    {
+        "id": 50,
+        "name": "1984",
+        "price": 12.99,
+        "count": 105,
+        "image": "1984.jpg",
+        "category": "Distopya"
+    }
+]

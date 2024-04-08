@@ -1,0 +1,94 @@
+
+/*
+
+Certainly! Here's a task for your students based on ES6 classes in JavaScript:
+
+Task: Online Bookstore Management System
+You are tasked with developing a simple online bookstore management system using ES6 classes in JavaScript. The system should have the following features:
+
+
+Əlbəttə! JavaScript-də ES6 siniflərinə əsaslanan tələbələriniz üçün tapşırıq:
+Tapşırıq: Onlayn Kitab Dükanı İdarəetmə Sistemi
+Sizə JavaScript-də ES6 dərslərindən istifadə edərək sadə onlayn kitab mağazası idarəetmə sistemini hazırlamaq tapşırılıb. Sistem aşağıdakı xüsusiyyətlərə malik olmalıdır:
+
+
+
+Book Class:
+
+Create a class called Book with properties title, author, isbn, and price.
+Implement a method to display book details.
+Inventory Class:
+
+Kitab sinfi:
+
+Xüsusiyyətləri adı, müəllifi, isbn və qiyməti olan Book adlı bir sinif yaradın.
+Kitab təfərrüatlarını göstərmək üçün bir üsul tətbiq edin.
+İnventar sinfi:
+        
+
+Create a class called Inventory to manage the bookstore's inventory.
+Implement methods to add a book to the inventory, remove a book from the inventory, and display the list of books in the inventory.
+Shopping Cart Class:
+
+
+Kitab mağazasının inventarını idarə etmək üçün İnventar adlı sinif yaradın.
+Kitabı inventara əlavə etmək, kitabı inventardan çıxarmaq və inventardakı kitabların siyahısını göstərmək üçün üsulları həyata keçirin.
+Alış-veriş Səbəti Sinfi:
+
+Create a class called ShoppingCart to manage the customer's shopping cart.
+Implement methods to add a book to the shopping cart, remove a book from the shopping cart, calculate the total price of items in the cart, and display the items in the cart.
+User Interface:
+
+Müştərinin alış-veriş səbətini idarə etmək üçün ShoppingCart adlı sinif yaradın.
+Kitabı alış-veriş səbətinə əlavə etmək, səbətdən kitabı çıxarmaq, səbətdəki əşyaların ümumi qiymətini hesablamaq və səbətdə əşyaları göstərmək üçün üsulları tətbiq edin.
+İstifadəçi interfeysi:
+
+Implement a simple command-line interface (CLI) to interact with the bookstore system.
+Provide options for adding books to the inventory, adding books to the shopping cart, removing books from the shopping cart, and displaying inventory and shopping cart details.
+Additional Features (Optional):
+
+
+Kitab mağazası sistemi ilə qarşılıqlı əlaqə yaratmaq üçün sadə əmr xətti interfeysini (CLI) həyata keçirin.
+Kitabları inventar əlavə etmək, alış-veriş səbətinə kitab əlavə etmək, kitabları səbətdən çıxarmaq və inventar və alış səbəti təfərrüatlarını göstərmək üçün seçimlər təqdim edin.
+Əlavə Xüsusiyyətlər (Könüllü):
+
+Implement error handling for invalid inputs.
+Allow sorting and searching of books in the inventory.
+Implement a checkout feature to simulate purchasing books from the shopping cart.
+Instructions:
+
+
+Yanlış daxiletmələr üçün xətanın idarə edilməsini həyata keçirin.
+İnventarda kitabların çeşidlənməsinə və axtarışına icazə verin.
+Alış-veriş səbətindən kitab almağı simulyasiya etmək üçün yoxlama funksiyasını tətbiq edin.
+Təlimatlar:
+
+
+Define the Book, Inventory, and ShoppingCart classes with appropriate properties and methods.
+Implement the user interface using a command-line interface (CLI) or any other suitable method for interaction.
+Test the functionality of the system by adding books to the inventory, adding books to the shopping cart, and performing various operations.
+Ensure that the code is well-structured, readable, and follows best practices for ES6 classes and JavaScript syntax.
+Submission Guidelines:
+Submit the JavaScript code files containing the implementation of the classes and the user interface.
+Include comments to explain the purpose of each class, method, and important sections of code.
+Provide a brief document or README explaining how to use the bookstore management system and any additional features implemented.
+This task will help your students practice ES6 class syntax, object-oriented programming concepts, and basic user interface development in JavaScript.
+
+
+
+Kitab, İnventar və Alış-veriş Səbəti siniflərini müvafiq xüsusiyyətlər və üsullarla müəyyən edin.
+Komanda xətti interfeysi (CLI) və ya qarşılıqlı əlaqə üçün hər hansı digər uyğun metoddan istifadə edərək istifadəçi interfeysini həyata keçirin.
+Kitabları inventara əlavə etmək, alış-veriş səbətinə kitablar əlavə etmək və müxtəlif əməliyyatları yerinə yetirməklə sistemin funksionallığını yoxlayın.
+Kodun yaxşı strukturlaşdırılmış, oxuna bilən və ES6 sinifləri və JavaScript sintaksisi üçün ən yaxşı təcrübələrə əməl etdiyinə əmin olun.
+Təqdimat qaydaları:
+Siniflərin həyata keçirilməsini və istifadəçi interfeysini ehtiva edən JavaScript kod fayllarını təqdim edin.
+Hər bir sinfin, metodun və kodun vacib bölmələrinin məqsədini izah etmək üçün şərhlər daxil edin.
+Kitab mağazasının idarəetmə sistemindən və tətbiq olunan hər hansı əlavə funksiyalardan necə istifadə olunacağını izah edən qısa sənəd və ya README təqdim edin.
+Bu tapşırıq tələbələrinizə ES6 sinfi sintaksisini, obyekt yönümlü proqramlaşdırma konsepsiyalarını və JavaScript-də əsas istifadəçi interfeysinin işlənməsini təcrübədən keçirməyə kömək edəcək.
+
+
+
+
+
+
+*/
